@@ -1,0 +1,6 @@
+#cobol
+FIZZBUZZ
+*.c
+*.c.h
+*.c.l.h
+*.i
